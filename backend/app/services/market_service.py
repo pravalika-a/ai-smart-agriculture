@@ -22,7 +22,7 @@ RESOURCE_ID = "9ef84268-d588-465a-a308-a864a43d0070"
 DATA_SOURCE = "Data.gov.in"
 PRIMARY_SOURCE = "Mandi API"
 
-MAX_ARRIVAL_AGE_DAYS = 14
+MAX_ARRIVAL_AGE_DAYS = 45
 
 
 # ============================================================
